@@ -8,4 +8,4 @@
 Nathan-Menezes/Nathan-Menezes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Atualmente tenho 16 anos, moro no Brasil, estou estudando HTML/CSS e pretendo estuda uma linguagem back-end que  ainda não decidi qual. Quero  aprender a criar sites, provavelmente  ligado ao emprendedorismo e ligado à empresas digitais, além de  fornecer esse tipo de serviços  para outras pessoas.
+Atualmente tenho 17 anos, moro no Brasil, estou estudando HTML/CSS e pretendo estuda uma linguagem back-end. Quero  aprender a criar sites, provavelmente  ligado ao emprendedorismo e ligado à empresas digitais, além de  fornecer esse tipo de serviços  para outras pessoas.
